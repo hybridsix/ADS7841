@@ -8,6 +8,7 @@ Documentation can be found here: http://www.ti.com/lit/ds/symlink/ads7841.pdf
 ////////////////////
 Written by Hybridsix
 with great help and input from Darkmoonsinger, and Snail
+Based on, but heavily mofified from, some original code written by madvoid
 ////////////////////
 July 1, 2013
 */
